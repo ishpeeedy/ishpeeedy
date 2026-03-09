@@ -35,6 +35,7 @@ A URL shortener with custom slugs, automatic QR code generation, and a detailed 
 ![MySQL](https://img.shields.io/badge/mysql-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=a985ff)
 ![Git](https://img.shields.io/badge/git-%23000000.svg?style=for-the-badge&logo=git&logoColor=a985ff)
 ![GitHub](https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=a985ff)
+![Gemini](https://img.shields.io/badge/Gemini-%23000000.svg?style=for-the-badge&logo=googlegemini&logoColor=a985ff)
 ![Postman](https://img.shields.io/badge/postman-%23000000.svg?style=for-the-badge&logo=postman&logoColor=a985ff)
 ![VS Code](https://img.shields.io/badge/vscode-%23000000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=a985ff)
 ![Vite](https://img.shields.io/badge/vite-%23000000.svg?style=for-the-badge&logo=vite&logoColor=a985ff)
