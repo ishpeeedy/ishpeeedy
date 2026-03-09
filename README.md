@@ -10,7 +10,7 @@ Open to new opportunities. Reach out to me on:
 An infinite canvas where you can organise your thoughts and bookmark links freely. Drag-and-drop images, links with auto metadata fetching, AI-powered semantic search and fully customizable tiles.
 
 
-## BlinkURL : [![Live_Deployment](https://img.shields.io/badge/Live_Deployment-%23000000.svg?style=for-the-badge&logo=googlechrome&logoColor=a985ff)](https://blinkurl-ppd2.onrender.com/)[![Source_Code](https://img.shields.io/badge/Source_Code-%23000000.svg?style=for-the-badge&logo=github&logoColor=a985ff)](https://github.com/ishpeeedy/BlinkURL)
+## BlinkURL : [![Live_Deployment](https://img.shields.io/badge/Live_Deployment-%23000000.svg?style=for-the-badge&logo=googlechrome&logoColor=a985ff)](https://blinkurl-ppd2.onrender.com/)[![Source_Code] (https://img.shields.io/badge/Source_Code-%23000000.svg?style=for-the-badge&logo=github&logoColor=a985ff)](https://github.com/ishpeeedy/BlinkURL)
 
 A URL shortener with custom slugs, automatic QR code generation, and a detailed analytics dashboard showing where your clicks are coming from, on what devices and when.
 
