@@ -5,3 +5,4 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=ishpeeedy&theme=dracula&hide_border=false)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ishpeeedy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anudgesharma@gmail.com) 
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
