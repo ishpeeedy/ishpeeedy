@@ -3,8 +3,8 @@ Full-stack developer working with the MERN stack and TypeScript.
 Building fast, modern web apps with a focus on clean UI and solid architecture.
 Open to new opportunities. Reach out to me on:
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=a985ff)
-![Gmail](https://img.shields.io/badge/gmail-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=a985ff)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=a985ff)](https://linkedin.com/in/ishpeeedy)
+[![Gmail](https://img.shields.io/badge/gmail-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=a985ff)](mailto:anudgesharma@gmail.com)
 
 ### I am currently working on:
 
