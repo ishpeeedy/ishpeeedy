@@ -1,11 +1,12 @@
 # About Me:
 Full-stack developer working with the MERN stack and TypeScript.
 Building fast, modern web apps with a focus on clean UI and solid architecture.
-Open to new opportunities. Reach out to me on 
+Open to new opportunities. Reach out to me on:
+
 ![LinkedIn](https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=a985ff)
 ![Gmail](https://img.shields.io/badge/gmail-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=a985ff)
 
-I am currently working on
+### I am currently working on:
 
 ## PiNNED : [![Live_Deployment](https://img.shields.io/badge/Live_Deployment-%23000000.svg?style=for-the-badge&logo=googlechrome&logoColor=a985ff)](https://pinned-djvw.onrender.com/) [![Source_Code](https://img.shields.io/badge/Source_Code-%23000000.svg?style=for-the-badge&logo=github&logoColor=a985ff)](https://github.com/ishpeeedy/PiNNED)
 
