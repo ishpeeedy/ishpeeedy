@@ -64,12 +64,8 @@ jobs:
           # Define the output files and their configurations
 
           outputs: |
-
-            dist/github-snake.svg
-
-            dist/github-snake-dark.svg?palette=github-dark
-
-            dist/custom.gif?color_snake=#a985ff&color_dots=#e8deff,#c9b0ff,#a985ff,#8a5fe0,#6b3dbf
+            dist/github-snake.svg?color_snake=#a985ff&color_dots=#e8deff,#c9b0ff,#a985ff,#8a5fe0,#6b3dbf
+            dist/github-snake-dark.svg?color_snake=#a985ff&color_dots=#e8deff,#c9b0ff,#a985ff,#8a5fe0,#6b3dbf
 
         env:
 
