@@ -1,6 +1,7 @@
+# About Me:
 Full-stack developer working with the MERN stack and TypeScript.
 Building fast, modern web apps with a focus on clean UI and solid architecture.
-Open to new opportunities. Reach out to me:
+Open to new opportunities. Reach out to me on 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=a985ff)
 ![Gmail](https://img.shields.io/badge/gmail-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=a985ff)
 
@@ -8,14 +9,12 @@ I am currently working on
 
 ## PiNNED : [![Live_Deployment](https://img.shields.io/badge/Live_Deployment-%23000000.svg?style=for-the-badge&logo=googlechrome&logoColor=a985ff)](https://pinned-djvw.onrender.com/) [![Source_Code](https://img.shields.io/badge/Source_Code-%23000000.svg?style=for-the-badge&logo=github&logoColor=a985ff)](https://github.com/ishpeeedy/PiNNED)
 
-an infinite canvas where you can organise your thoughts and bookmark ideas and links freely. Supports drag-and-drop images, undo/redo, image galleries, and a fully customizable tiles.
+An infinite canvas where you can organise your thoughts and bookmark links freely. Drag-and-drop images, links with auto metadata fetching, AI-powered semantic search and fully customizable tiles.
 
 
 ## BlinkURL : [![Live_Deployment](https://img.shields.io/badge/Live_Deployment-%23000000.svg?style=for-the-badge&logo=googlechrome&logoColor=a985ff)](https://blinkurl-ppd2.onrender.com/)[![Source_Code](https://img.shields.io/badge/Source_Code-%23000000.svg?style=for-the-badge&logo=github&logoColor=a985ff)](https://github.com/ishpeeedy/BlinkURL)
 
-a URL shortener with custom slugs, automatic QR code generation, and a detailed analytics dashboard showing where your clicks are coming from, on what devices, and when.
-
-
+A URL shortener with custom slugs, automatic QR code generation, and a detailed analytics dashboard showing where your clicks are coming from, on what devices and when.
 
 # Tech Stack:
 ![C](https://img.shields.io/badge/c-%23000000.svg?style=for-the-badge&logo=c&logoColor=a985ff)
