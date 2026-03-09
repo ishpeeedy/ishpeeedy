@@ -33,6 +33,7 @@ A URL shortener with custom slugs, automatic QR code generation, and a detailed 
 ![Redux](https://img.shields.io/badge/redux-%23000000.svg?style=for-the-badge&logo=redux&logoColor=a985ff)
 ![MongoDB](https://img.shields.io/badge/mongodb-%23000000.svg?style=for-the-badge&logo=mongodb&logoColor=a985ff)
 ![MySQL](https://img.shields.io/badge/mysql-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=a985ff)
+![REST API](https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=a985ff)
 ![Git](https://img.shields.io/badge/git-%23000000.svg?style=for-the-badge&logo=git&logoColor=a985ff)
 ![GitHub](https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=a985ff)
 ![Gemini](https://img.shields.io/badge/Gemini-%23000000.svg?style=for-the-badge&logo=googlegemini&logoColor=a985ff)
