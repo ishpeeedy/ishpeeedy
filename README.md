@@ -4,7 +4,7 @@ Building fast, modern web apps with a focus on clean UI and solid architecture.
 Open to new opportunities. Reach out to me on:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=a985ff)](https://linkedin.com/in/ishpeeedy)
-[![Gmail](https://img.shields.io/badge/gmail-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=a985ff)](mailto:anudgesharma@gmail.com)
+[![Gmail](https://img.shields.io/badge/gmail-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=a985ff)](https://mail.google.com/mail/?view=cm&to=anudgesharma@gmail.com)
 
 ### I am currently working on:
 
