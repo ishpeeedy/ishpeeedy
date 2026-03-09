@@ -1,6 +1,6 @@
 # Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ishpeeedy)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anudgesharma@gmail.com) 
+![LinkedIn](https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=a985ff)
+![Gmail](https://img.shields.io/badge/gmail-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=a985ff)
 # Tech Stack:
 ![C](https://img.shields.io/badge/c-%23000000.svg?style=for-the-badge&logo=c&logoColor=a985ff)
 ![C++](https://img.shields.io/badge/c++-%23000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=a985ff)
