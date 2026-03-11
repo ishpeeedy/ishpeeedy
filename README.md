@@ -3,12 +3,11 @@ Full-stack developer working with the MERN stack and TypeScript.
 Building fast, modern web apps with a focus on clean UI and solid architecture.
 Open to new opportunities. Reach out to me on:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=a985ff)](https://linkedin.com/in/ishpeeedy)
-[![Gmail](https://img.shields.io/badge/gmail-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=a985ff)](https://mail.google.com/mail/?view=cm&to=anudgesharma@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMjU2JyBoZWlnaHQ9JzI1NicgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSd4TWlkWU1pZCcgdmlld0JveD0nMCAwIDI1NiAyNTYnPjxwYXRoIGQ9J00yMTguMTIzIDIxOC4xMjdoLTM3LjkzMXYtNTkuNDAzYzAtMTQuMTY1LS4yNTMtMzIuNC0xOS43MjgtMzIuNC0xOS43NTYgMC0yMi43NzkgMTUuNDM0LTIyLjc3OSAzMS4zNjl2NjAuNDNoLTM3LjkzVjk1Ljk2N2gzNi40MTN2MTYuNjk0aC41MWEzOS45MDcgMzkuOTA3IDAgMCAxIDM1LjkyOC0xOS43MzNjMzguNDQ1IDAgNDUuNTMzIDI1LjI4OCA0NS41MzMgNTguMTg2bC0uMDE2IDY3LjAxM1pNNTYuOTU1IDc5LjI3Yy0xMi4xNTcuMDAyLTIyLjAxNC05Ljg1Mi0yMi4wMTYtMjIuMDA5LS4wMDItMTIuMTU3IDkuODUxLTIyLjAxNCAyMi4wMDgtMjIuMDE2IDEyLjE1Ny0uMDAzIDIyLjAxNCA5Ljg1MSAyMi4wMTYgMjIuMDA4QTIyLjAxMyAyMi4wMTMgMCAwIDEgNTYuOTU1IDc5LjI3bTE4Ljk2NiAxMzguODU4SDM3Ljk1Vjk1Ljk2N2gzNy45N3YxMjIuMTZaTTIzNy4wMzMuMDE4SDE4Ljg5QzguNTgtLjA5OC4xMjUgOC4xNjEtLjAwMSAxOC40NzF2MjE5LjA1M2MuMTIyIDEwLjMxNSA4LjU3NiAxOC41ODIgMTguODkgMTguNDc0aDIxOC4xNDRjMTAuMzM2LjEyOCAxOC44MjMtOC4xMzkgMTguOTY2LTE4LjQ3NFYxOC40NTRjLS4xNDctMTAuMzMtOC42MzUtMTguNTg4LTE4Ljk2Ni0xOC40NTMnIGZpbGw9JyNhOTg1ZmYnLz48L3N2Zz4K)](https://linkedin.com/in/ishpeeedy)
+[![Gmail](https://img.shields.io/badge/email-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=a985ff)](https://mail.google.com/mail/?view=cm&to=anudgesharma@gmail.com)
 
 ### I am currently working on:
-
-## PiNNED : [![Live_Deployment](https://img.shields.io/badge/Live_Deployment-%23000000.svg?style=for-the-badge&logo=googlechrome&logoColor=a985ff)](https://pinned-djvw.onrender.com/) [![Source_Code](https://img.shields.io/badge/Source_Code-%23000000.svg?style=for-the-badge&logo=github&logoColor=a985ff)](https://github.com/ishpeeedy/PiNNED)
+<a href="https://pinned-djvw.onrender.com/"><img src="https://res.cloudinary.com/dzwjyg2ai/image/upload/v1773209034/IMP_Resources/project_PiNNED/PiNNED_logo_emayfy.svg" width="100" /></a> [![Live_Deployment](https://img.shields.io/badge/Live_Deployment-%23000000.svg?style=for-the-badge&logo=render&logoColor=a985ff)](https://pinned-djvw.onrender.com/) [![Source_Code](https://img.shields.io/badge/Source_Code-%23000000.svg?style=for-the-badge&logo=github&logoColor=a985ff)](https://github.com/ishpeeedy/PiNNED)
 
 An infinite canvas where you can organise your thoughts and bookmark links freely. Drag-and-drop images, links with auto metadata fetching, AI-powered semantic search and fully customizable tiles.
 
