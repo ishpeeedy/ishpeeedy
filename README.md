@@ -7,7 +7,7 @@ Open to new opportunities. Reach out to me on:
 [![Gmail](https://img.shields.io/badge/email-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=a985ff)](https://mail.google.com/mail/?view=cm&to=anudgesharma@gmail.com)
 
 ### I am currently working on:
-<a href="https://pinned-djvw.onrender.com/"><img src="https://res.cloudinary.com/dzwjyg2ai/image/upload/v1773209034/IMP_Resources/project_PiNNED/PiNNED_logo_emayfy.svg" width="100" /></a> [![Live_Deployment](https://img.shields.io/badge/Live_Deployment-%23000000.svg?style=for-the-badge&logo=render&logoColor=a985ff)](https://pinned-djvw.onrender.com/) [![Source_Code](https://img.shields.io/badge/Source_Code-%23000000.svg?style=for-the-badge&logo=github&logoColor=a985ff)](https://github.com/ishpeeedy/PiNNED)
+<a href="https://pinned.ishpeeedy.dev"><img src="https://res.cloudinary.com/dzwjyg2ai/image/upload/v1773209034/IMP_Resources/project_PiNNED/PiNNED_logo_emayfy.svg" width="100" /></a> [![Live_Deployment](https://img.shields.io/badge/Live_Deployment-%23000000.svg?style=for-the-badge&logo=render&logoColor=a985ff)](https://pinned.ishpeeedy.dev/) [![Source_Code](https://img.shields.io/badge/Source_Code-%23000000.svg?style=for-the-badge&logo=github&logoColor=a985ff)](https://github.com/ishpeeedy/PiNNED)
 
 An infinite canvas where you can organise your thoughts and bookmark links freely. Drag-and-drop images, links with auto metadata fetching, AI-powered semantic search and fully customizable tiles.
 
