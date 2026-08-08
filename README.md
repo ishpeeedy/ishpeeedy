@@ -22,6 +22,7 @@ An infinite canvas where you can organise your thoughts and bookmark links freel
 ![HTML5](https://img.shields.io/badge/html5-%23000000.svg?style=for-the-badge&logo=html5&logoColor=a985ff)
 ![CSS3](https://img.shields.io/badge/css3-%23000000.svg?style=for-the-badge&logo=css3&logoColor=a985ff)
 ![React](https://img.shields.io/badge/react-%23000000.svg?style=for-the-badge&logo=react&logoColor=a985ff)
+![Angular](https://img.shields.io/badge/Angular-%23000000.svg?style=for-the-badge&logo=react&logoColor=a985ff)
 ![Redux](https://img.shields.io/badge/redux-%23000000.svg?style=for-the-badge&logo=redux&logoColor=a985ff)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%23000000.svg?style=for-the-badge&logo=tailwind-css&logoColor=a985ff)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23000000.svg?style=for-the-badge&logo=bootstrap&logoColor=a985ff)
